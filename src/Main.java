@@ -338,7 +338,7 @@ a */
         }else{
             System.out.printf("Numbers are not equal!");
 
-        } }
+        } 
 
 /*
  Write a Java program that reads an integer and check whether it is negative, zero, or
@@ -477,9 +477,6 @@ Number is positive
         }
 
         System.out.println("Number of a's: " + counter);
-
-
-
 
 
     }
